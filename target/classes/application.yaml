@@ -12,9 +12,9 @@ spring:
 
   datasource:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
-    url: jdbc:sqlserver://pokedexross.database.windows.net:1433;database=PokeProjectDB;user=RossHawk@pokedexross;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
-    username: RossHawk
-    password: Techno78
+    url: jdbc:sqlserver://blockbusstermm.database.windows.net:1433;database=BlockBusster;encrypt=true
+    username: mmoord
+    password: Foxtrot12
   jpa:
     database-platform: org.hibernate.dialect.SQLServerDialect
     show-sql: true
